@@ -1,0 +1,29 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="row1.id_val">
+  <variables name="row1.ent_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.ent_vrsn_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.vrsn_seq_id" value="null" talendType="id_Double" nullable="true"/>
+  <variables name="row1.rplc_vrsn_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.sts_cd_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.typ_cd_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.crt_utc" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.crt_usr_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.obslt_utc" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.obslt_usr_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.tpl_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.cls_cd_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.dtr_cd_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.dob" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.dob_prec" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.sts_cs" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.gndr_cd_id" value="null" talendType="id_Object" nullable="true"/>
+  <variables name="row1.dcsd_utc" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.dcsd_prec" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.mb_ord" value="null" talendType="id_Double" nullable="true"/>
+  <variables name="row1.gndr_cs" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.tel_use" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.tel_val" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.id_val" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.nsid" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.oid" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>
